@@ -1,2 +1,2 @@
 # mkproject
-Projekts Nila m'ajasdaarbam
+Projekts Nila mājasdaarbam
